@@ -1,6 +1,6 @@
 '''
 
-Series RLC Circiut Analysis
+Series RLC Circuit Analysis
 By Nariman Ziaie
 Student ID: 40010140119030
 

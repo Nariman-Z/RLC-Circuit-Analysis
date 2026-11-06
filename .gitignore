@@ -1,0 +1,23 @@
+# Proteus Simulation Artifacts & User State
+*.workspace*
+*.pdsbak
+Last Loaded *
+
+# NI Multisim Backups
+*.bak
+*.ms*bak
+
+# MATLAB & Simulink
+*.asv
+*.m~
+slprj/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Editor & OS Backups
+*~
+*.swp
+*.tmp
+.DS_Store
